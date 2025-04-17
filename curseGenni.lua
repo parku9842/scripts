@@ -1,4 +1,4 @@
--- Script created by my friend @supremecultist on discord
+-- Script created by my friend @impostermikimi on discord
 -- perl -i -pe 's/^[0-9]+\n//g' m.lua
 -- sed -i 's/$/ = /; N; s/\n//' m.lua
 -- sed -i -r 's/(^.*= )(.*)/\1"\2",/g' m.lua
